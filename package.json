@@ -15,8 +15,13 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"dependencies": {
+  	"package-name": "@freecodecamp/example",
+  	"express": "1.1.0"
 	}
 }
+
 
 
 
