@@ -3,6 +3,7 @@
 	"author": "Scarlett",
 	"description": "This project does something amazing",
 	"keywords": [ "freecodecamp", "useful", "helpful" ],
+	"license": "ExampleLicense",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,6 +16,7 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
+
 
 
 
